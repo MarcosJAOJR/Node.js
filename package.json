@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rsvalerio/pipeline-nodejs-main/issues"
   },
-  "homepage": "https://github.com/rsvalerio/pipeline-nodejs-main#readme"
+  "homepage": "https://github.com/rsvalerio/pipeline-nodejs-main#readme",
+  "dependencies": {
+    "pipeline-nodejs-component": "^1.0.0"
+  }
 }
