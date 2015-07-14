@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/rsvalerio/pipeline-nodejs-main#readme",
   "dependencies": {
+    "express": "^5.0.0-alpha.2",
     "pipeline-nodejs-component": "^1.0.0"
   }
 }
