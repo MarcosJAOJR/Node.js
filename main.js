@@ -10,5 +10,5 @@ http.createServer(function (req, res) {
 
   res.end(JSON.stringify({ version: packageJson.version }));
 
-}).listen(1337);
-console.log('servidor iniciado http://localhost:1337');
+}).listen(8080);
+console.log('servidor iniciado http://localhost:8080');
